@@ -1,27 +1,5 @@
-<style>
-.main {
-   color:#65feef; 
-   background-image: radial-gradient( circle farthest-corner at -4% -12.9%,  rgba(74,98,110,1) 0.3%, rgba(30,33,48,1) 90.2% );
-
-   
-}
-
-h1{
-   font-size: 1.5rem;
-   text-align:center;
-   margin-top: 1rem;   
-}
-
-h3{
-    margin-left: 2rem;
-    margin-bottom: 2rem;
-    font-size: 1.3rem;
-}
-
-</style>
-
-<div class="main"> 
-<h1 class='title'>Welcome to my Github Profile! My name is Anette <img src="Hi.gif" width="20px"></h1>
+<div> 
+<h1 align="center" >Welcome to my Github Profile! My name is Anette <img src="Hi.gif" width="20px"></h1>
 
 <br>
 <hr>
