@@ -16,7 +16,7 @@
   <li>HTML | CSS | JavaScript </li>
   <li>Frameworks (in development) : React, Next.js </li>
   <li>Hobbies : Sport | Learning | Cooking | Traveling | Music</li>
-  <li>Goal : Full-Stack Development and designer </li>
+  <li>Goal : Full-Stack Development and Web Designer </li>
   <li>Member of Zero To Mastery</li>
 </ul>
  <hr>
