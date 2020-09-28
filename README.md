@@ -1,10 +1,10 @@
 <div> 
-<h1 align="center" >Welcome to my Github Profile! <img src="Hi.gif" width="20px"></h1>
+<h1 align="center" >Glad to see you here! <img src="Hi.gif" width="20px"></h1>
 
 <hr>
-<h3>Glad to see you here! My name is Anette</h3>
+<h3>My name is Anette</h3>
 
-<h3> Im a self-taught developer, from the UK, family centric, passionate about creating and designing websites, learning from scratch. </h3>
+<h3> Im a self-taught developer, from the UK, family centric, passionate about creating and designing websites </h3>
 
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=redsquirrrel&show_icons=true&theme=radical" >
@@ -13,10 +13,10 @@
 </p>
 
 <ul>
-  <li> I code in : HTML, CSS, JavaScript</li>
+  <li>HTML | CSS | JavaScript </li>
   <li>Frameworks (in development) : React, Next.js </li>
-  <li>Hobbies : Running, Fitness, Learning new stuff, Cooking, Traveling and Music</li>
-  <li>Goal : Full-Stack Development </li>
+  <li>Hobbies : Sport | Learning | Cooking | Traveling | Music</li>
+  <li>Goal : Full-Stack Development and designer </li>
   <li>Member of Zero To Mastery</li>
 </ul>
  <hr>
