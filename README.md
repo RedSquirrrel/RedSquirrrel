@@ -1,12 +1,13 @@
-<div height = "1200px" {: style="background-image: url('bg.png'); color: #fff;"}>
+<div>
 <br/>
 <br/>
 <h1 align="center" >Glad to see you here! <img src="Hi.gif" width="20px"></h1>
 
 <hr>
-<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My name is Anette</h4>
+<img align="right" height="150px" width="150px" src="octocat.png">
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My name is Anette</h3>
 <br/>
-<h3>&nbsp;&nbsp;&nbsp;&nbsp; Im a self-taught developer, from the UK, family centric, passionate about creating and designing websites </h3>
+<h4> &nbsp;&nbsp;&nbsp;&nbsp; Im a self-taught developer, from the UK, family centric, passionate about creating and designing websites </h4>
 <br/>
 <p align='center'>
 <img height="120px" src="https://github-readme-stats.vercel.app/api?username=redsquirrrel&show_icons=true&theme=radical" >
@@ -14,7 +15,7 @@
 </p>
 
 <br/>
-<img align="right" height="150px" width="150px" src="octocat.png">
+
  <ul>
   <li>HTML | CSS | JavaScript </li>
   <li>Frameworks: React, Next.js </li>
