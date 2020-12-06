@@ -6,7 +6,6 @@
 <hr>
 <img align="right" height="150px" width="150px" src="octocat.png">
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My name is Anette</h3>
-<br/>
 <h4> &nbsp;&nbsp;&nbsp;&nbsp; Im a self-taught developer, from the UK, family centric, passionate about creating and designing websites </h4>
 <br/>
 <p align='center'>
