@@ -9,12 +9,12 @@
 <h3>&nbsp;&nbsp;&nbsp;&nbsp; Im a self-taught developer, from the UK, family centric, passionate about creating and designing websites </h3>
 <br/>
 <p align='center'>
-<img height="100px" src="https://github-readme-stats.vercel.app/api?username=redsquirrrel&show_icons=true&theme=radical" >
-<img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redsquirrrel&layout=compact" alt="Top Langs">
+<img height="120px" src="https://github-readme-stats.vercel.app/api?username=redsquirrrel&show_icons=true&theme=radical" >
+<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redsquirrrel&layout=compact" alt="Top Langs">
 </p>
 
 <br/>
-<img src="octocat.png"{: height="150px" width="150px" style="float:left; margin-left:25px" }>
+<img align="right" height="150px" width="150px" src="octocat.png">
  <ul>
   <li>HTML | CSS | JavaScript </li>
   <li>Frameworks: React, Next.js </li>
