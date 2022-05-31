@@ -11,13 +11,12 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=redsquirrrel&repo=full-stack-open-2021&theme=tokyonight)](https://github.com/RedSquirrrel/full-stack-open-2021) &nbsp;&nbsp;&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=redsquirrrel&repo=Tip-Calculator&theme=tokyonight)](https://github.com/RedSquirrrel/tip-calculator)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=redsquirrrel&repo=time-tracking-dashboard&theme=tokyonight)](https://github.com/RedSquirrrel/Time-Tracking-Dashboard) &nbsp;&nbsp;&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=redsquirrrel&repo=sunnyside-agency-landing-page&theme=tokyonight)](https://github.com/RedSquirrrel/sunnyside-agency-landing-page)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=redsquirrrel&repo=keyboard-event&theme=tokyonight)](https://github.com/RedSquirrrel/keyboard-event) &nbsp;&nbsp;&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=redsquirrrel&repo=note-docker-node-mongo&theme=tokyonight)](https://github.com/RedSquirrrel/note-docker-node-mongo)
 <br/>
 <br/>
 <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=redsquirrrel&repo=todo&theme=tokyonight)](https://github.com/RedSquirrrel/todo) &nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=redsquirrrel&repo=space-tourism&theme=tokyonight)](https://github.com/RedSquirrrel/space-tourism)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=redsquirrrel&repo=keyboard-event&theme=tokyonight)](https://github.com/RedSquirrrel/keyboard-event) &nbsp;&nbsp;&nbsp; 
 
 </div>
 
