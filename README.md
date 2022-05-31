@@ -16,7 +16,10 @@
 <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=redsquirrrel&repo=todo&theme=tokyonight)](https://github.com/RedSquirrrel/todo) &nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=redsquirrrel&repo=space-tourism&theme=tokyonight)](https://github.com/RedSquirrrel/space-tourism)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=redsquirrrel&repo=keyboard-event&theme=tokyonight)](https://github.com/RedSquirrrel/keyboard-event) &nbsp;&nbsp;&nbsp; 
+<br/>
+<br/>
+<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=redsquirrrel&repo=keyboard-event&theme=tokyonight)](https://github.com/RedSquirrrel/keyboard-event) &nbsp;&nbsp;&nbsp;
 
 </div>
 
