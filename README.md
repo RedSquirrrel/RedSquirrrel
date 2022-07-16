@@ -3,7 +3,7 @@
 ![cover](./banner.png)
 
 </div>
-<h2> &nbsp;&nbsp;&nbsp;&nbsp;   Hey, I'm Anette. A passionate and self-taught developer. Love to create and design websites. Some of my works: </h2>
+
 <br/>
 
 <div align='center'>
