@@ -1,5 +1,7 @@
 <div align='center' width ='100%'>
 
+<img src="./giphy.gif" height="250"/>
+
 ![cover](./banner.png)
 
 </div>
@@ -19,7 +21,8 @@
 <br/>
 <br/>
 <br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=redsquirrrel&repo=keyboard-event&theme=tokyonight)](https://github.com/RedSquirrrel/keyboard-event) &nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=redsquirrrel&repo=keyboard-event&theme=tokyonight)](https://github.com/RedSquirrrel/keyboard-event)&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=redsquirrrel&repo=next-countries&theme=tokyonight)](https://github.com/RedSquirrrel/next-countries)
 
 </div>
 
