@@ -1,7 +1,5 @@
 <div align='center' width ='100%'>
 
-<img src="./giphy.gif" height="250"/>
-
 ![cover](./banner.png)
 
 </div>
